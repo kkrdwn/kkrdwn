@@ -29,15 +29,6 @@
 
 ---
 
-### ⚡ Development Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkrdwn&show_icons=true&theme=transparent&hide_border=true&title_color=33CCEE&icon_color=33CCEE&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkrdwn&layout=compact&theme=transparent&hide_border=true&title_color=33CCEE&text_color=ffffff" width="45%" />
-</div>
-
----
-
 ### 🛰️ Connect with me
 <div align="center">
   <a href="mailto:your-email@example.com">
