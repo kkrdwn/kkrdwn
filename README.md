@@ -31,11 +31,8 @@
 
 ### 🛰️ Connect with me
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kakaridwan46@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
