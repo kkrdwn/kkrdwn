@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KKRDWN&fontSize=50&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20kkrdwn&fontSize=70&animation=fadeIn" />
 
   <h1>Software Enthusiast & Systems Explorer</h1>
 
