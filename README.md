@@ -25,7 +25,7 @@
 | **Interface** | Hyprland (Wayland) |
 | **Hardware** | Axioo Pongo 725 (i7-12650H • RTX 2050 • 16GB RAM) |
 | **Editor** | Neovim / VS Code |
-| **Terminal** | Kitty + Zsh |
+| **Terminal** | Kitty |
 
 ---
 
