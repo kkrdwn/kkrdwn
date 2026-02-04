@@ -23,17 +23,12 @@ Halo! Saya seorang pengguna **Arch Linux** yang senang mengulik tampilan (ricing
 <p align="left">
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/WM-Hyprland-33CCEE?style=for-the-badge&logo=hyprland&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal-Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkrdwn&show_icons=true&theme=tokyonight&hide_border=true" alt="kkrdwn GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkrdwn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
