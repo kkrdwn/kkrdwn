@@ -1,39 +1,55 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20kkrdwn&fontSize=70&animation=fadeIn" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KKRDWN&fontSize=50&fontAlignY=50" />
 
-### 🐧 Arch Linux & Hyprland Enthusiast
-Halo! Saya seorang pengguna **Arch Linux** yang senang mengulik tampilan (ricing) menggunakan **Hyprland** di laptop **Pongo 725** saya.
+  <h1>Software Enthusiast & Systems Explorer</h1>
+
+  <p>
+    Focused on building efficient workflows and exploring the depths of Unix-like systems. 
+    Currently optimizing a custom <b>Arch Linux + Hyprland</b> environment on a <b>Pongo 725</b>.
+  </p>
+
+  <p>
+    <a href="https://github.com/kkrdwn">
+      <img src="https://img.shields.io/github/followers/kkrdwn?label=Follow&style=social"  alt="Follow" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 💻 My Workspace (Pongo 725)
-| Component | Details |
+### 🛠️ Technical Ecosystem
+
+| Category | Infrastructure |
 | :--- | :--- |
-| **OS** | Arch Linux |
-| **WM** | Hyprland (Wayland) |
-| **CPU** | Intel® Core™ i7-12650H |
-| **GPU** | NVIDIA® GeForce RTX™ 2050 (4GB) |
-| **RAM** | 16GB DDR4 3200Mhz |
-| **Display** | 15.6" IPS 144Hz |
+| **System** | Arch Linux |
+| **Interface** | Hyprland (Wayland) |
+| **Hardware** | Axioo Pongo 725 (i7-12650H • RTX 2050 • 16GB RAM) |
+| **Editor** | Neovim / VS Code |
+| **Terminal** | Kitty + Zsh |
 
 ---
 
-## 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WM-Hyprland-33CCEE?style=for-the-badge&logo=hyprland&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white" />
-</p>
+### ⚡ Development Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkrdwn&show_icons=true&theme=transparent&hide_border=true&title_color=33CCEE&icon_color=33CCEE&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkrdwn&layout=compact&theme=transparent&hide_border=true&title_color=33CCEE&text_color=ffffff" width="45%" />
+</div>
 
 ---
 
-</p>
+### 🛰️ Connect with me
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
----
+<br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Keep-Rolling-blue?style=flat-square&logo=arch-linux" />
-  <img src="https://img.shields.io/badge/Focus-Productivity-brightgreen?style=flat-square" />
+  <i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
 </p>
