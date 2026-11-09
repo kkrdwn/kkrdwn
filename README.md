@@ -21,8 +21,8 @@
 
 | Category | Infrastructure |
 | :--- | :--- |
-| **System** | Arch Linux |
-| **Interface** | Hyprland (Wayland) |
+| **System** | Fedora Workstation 45 |
+| **Interface** | - |
 | **Hardware** | Axioo Pongo 725 (i7-12650H • RTX 2050 • 16GB RAM) |
 | **Editor** | Neovim / VS Code |
 | **Terminal** | Kitty |
